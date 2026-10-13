@@ -1,0 +1,1 @@
+"""Muthyara Smart Calculator application package."""
